@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{812D736E-2910-4530-91E0-5B137DBD6524}|" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestMVC Status">
+    <Files>
+      <File FileName="TestMVC/Views/Home/Index.cshtml" Line="2" Column="19" />
+      <File FileName="TestMVC Status" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestMVC" expanded="True">
+            <Node name="TestMVC" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="TestMVC.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestMVC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestMVC.Tests FirstBuild="True" />
+</Properties>
